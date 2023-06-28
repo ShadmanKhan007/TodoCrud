@@ -25,9 +25,18 @@ To run this ToDoList application locally, follow these steps:
 
    ```shell
   a.   git clone https://github.com/ShadmanKhan007/TodoCrud
+
+  
   b.   npm install
+
+  
   c.   cd crudtodo
+
+  
   d.   npm run dev
+
+
+  
   e.   The application should now be running at http://localhost:5173/.
 
 
